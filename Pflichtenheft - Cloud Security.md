@@ -36,13 +36,19 @@ Mögliche Cloudlösungen wie z.B. ownCloud, OpenStack, Abiquo und CloudStack ste
 ### 5. Use Case Diagramme
 
 #### Cloud-System
-![](assets/Cloud_use_case.png)Abbildung 1: Use-Case Diagramm des Cloud-Systems mit den wichtigsten Aktivitäten und Akteuren.
+![](assets/Cloud_use_case.png)
+
+Abbildung 1: Use-Case Diagramm des Cloud-Systems mit den wichtigsten Aktivitäten und Akteuren.
 
 #### DoS Attacke
-![](assets/DoS_Attack_use_case.png)Abbildung 2: Beispielhaftes Use-Case Diagramm für eine DoS Attacke. Der Attacker operiert als Benutzer, da er normal im System angemeldet ist, jedoch schadhaften Code ausführt.
+![](assets/DoS_Attack_use_case.png)
+
+Abbildung 2: Beispielhaftes Use-Case Diagramm für eine DoS Attacke. Der Attacker operiert als Benutzer, da er normal im System angemeldet ist, jedoch schadhaften Code ausführt.
 
 ### 6. Aktivitätendiagramm
-![](assets/Aktivitaeten_Diagramm_Beispiel.png)Abbildung 3: Aktivitätendiagramm für eine beispielhafte DoS Attacke. Die Gegenmaßnahmen sind stark abhängig von der verwendeten Cloud-Technologie, daher sind die Maßnahmen bzw. Aktivitäten abstrakt gehalten.
+![](assets/Aktivitaeten_Diagramm_Beispiel.png)
+
+Abbildung 3: Aktivitätendiagramm für eine beispielhafte DoS Attacke. Die Gegenmaßnahmen sind stark abhängig von der verwendeten Cloud-Technologie, daher sind die Maßnahmen bzw. Aktivitäten abstrakt gehalten.
 
 
 ### 7. User Stories
