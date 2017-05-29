@@ -47,18 +47,26 @@ Alle Angriffe und Tests finden innerhalb der Cloud statt. Eine Beziehung zwische
 ### 5. Use Case Diagramme
 
 #### 5.1 Cloud-System
-![](assets/Cloud_use_case.png)Abbildung 1: Use-Case Diagramm des Cloud-Systems mit den wichtigsten Aktivitäten und Akteuren.
+![](assets/Cloud_use_case.png)
+
+Abbildung 1: Use-Case Diagramm des Cloud-Systems mit den wichtigsten Aktivitäten und Akteuren.
 
 #### 5.2 DoS Attacke
-![](assets/DoS_Attack_use_case.png)Abbildung 2: Beispielhaftes Use-Case Diagramm für eine DoS Attacke. Der Attacker operiert als Benutzer, da er normal im System angemeldet ist, jedoch schadhaften Code ausführt.
+![](assets/DoS_Attack_use_case.png)
+
+Abbildung 2: Beispielhaftes Use-Case Diagramm für eine DoS Attacke. Der Attacker operiert als Benutzer, da er normal im System angemeldet ist, jedoch schadhaften Code ausführt.
 
 ### 6. Aktivitätendiagramm
 
 #### 6.1 DoS Attacke im Detail
-![](assets/Aktivitaeten_Diagramm_Beispiel.png)Abbildung 3: Aktivitätendiagramm für eine beispielhafte DoS Attacke. Die Gegenmaßnahmen sind stark abhängig von der verwendeten Cloud-Technologie, daher sind die Maßnahmen bzw. Aktivitäten abstrakt gehalten.
+![](assets/Aktivitaeten_Diagramm_Beispiel.png)
+
+Abbildung 3: Aktivitätendiagramm für eine beispielhafte DoS Attacke. Die Gegenmaßnahmen sind stark abhängig von der verwendeten Cloud-Technologie, daher sind die Maßnahmen bzw. Aktivitäten abstrakt gehalten.
 
 #### 6.2 Schadensanalyse
-![](assets/SchadensanalyseDos.png)Abbildung 4: Aktivitätendiagramm für eine Schadensanalyse nach einem DoS Angriff.
+![](assets/SchadensanalyseDos.png)
+
+Abbildung 4: Aktivitätendiagramm für eine Schadensanalyse nach einem DoS Angriff.
 
 ### 7. User Stories
 
