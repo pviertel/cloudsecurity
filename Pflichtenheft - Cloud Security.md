@@ -11,9 +11,20 @@ Das Ziel des Projekts beinhaltet das Aufsetzen einer lauffähigen Cloud zum Durc
 
 Aufgrund des Umfangs des Themas und der vielen unterschiedlichen Lösungen, Produkten und Strategien im Cloud-Sektor, ist es schwierig über eine einzige Cloud-Security zu sprechen. Der Fokus liegt daher auf einem konkreten Beispielszenario, welches die Sicherheit eines bestimmten Cloud-Systems testet. Was für eine Cloud-Lösung ein Problem darstellt, kann ebenso gut für ein anderes System gar keine Schwierigkeit sein. Es gibt generelle Probleme die für alle Systeme gelten (z.B. DoS (Denial-of-Service) Attacken), jedoch beinhalten unterschiedliche Systeme auch unterschiedliche Sicherheitsstrategien.
 
+#### 2.1 Soll-Kriterien
+
+* DoS Attacke durchführen anhand eines bestehenden Bugs im System
+
+#### 2.2 Kann-Kriterien
+
+* Verschiedene DoS Attacken durchführen (Ausfall des Servers, Auslastung der Ressourcen, Kompromittierung der Daten, Freilegung von Informationen)
+* Gegenmaßnahmen umsetzen
+
 ### 3. Verwendete Technologien
 
 Mögliche Cloudlösungen wie z.B. ownCloud, OpenStack, Abiquo und CloudStack stehen zur Verfügung. Für das Projekt werden wir OpenStack verwenden, da ein Linux-orientiertes System von uns bevorzugt wird. Es bietet auch eine gute Unterstützung für virtuelle Systeme.
+
+Alle Angriffe und Tests finden innerhalb der Cloud statt. Eine Beziehung zwischen virtueller "Sandbox" und Host-Maschine bzw. Internet wird nicht untersucht. Das komplette System wird innerhalb der VM simuliert, und alle Operationen finden ebenfalls in diesem System statt. Die Virtualisierung ansich spielt dabei ebenfalls keine tragende Rolle.
 
 * Cloudlösung: OpenStack mit DevStack
 * Host-Rechner: Virtuelle Maschine mit Ubuntu 16.04.2 LTS 64-Bit über Oracle VirtualBox
@@ -35,21 +46,19 @@ Mögliche Cloudlösungen wie z.B. ownCloud, OpenStack, Abiquo und CloudStack ste
 
 ### 5. Use Case Diagramme
 
-#### Cloud-System
-![](assets/Cloud_use_case.png)
+#### 5.1 Cloud-System
+![](assets/Cloud_use_case.png)Abbildung 1: Use-Case Diagramm des Cloud-Systems mit den wichtigsten Aktivitäten und Akteuren.
 
-Abbildung 1: Use-Case Diagramm des Cloud-Systems mit den wichtigsten Aktivitäten und Akteuren.
-
-#### DoS Attacke
-![](assets/DoS_Attack_use_case.png)
-
-Abbildung 2: Beispielhaftes Use-Case Diagramm für eine DoS Attacke. Der Attacker operiert als Benutzer, da er normal im System angemeldet ist, jedoch schadhaften Code ausführt.
+#### 5.2 DoS Attacke
+![](assets/DoS_Attack_use_case.png)Abbildung 2: Beispielhaftes Use-Case Diagramm für eine DoS Attacke. Der Attacker operiert als Benutzer, da er normal im System angemeldet ist, jedoch schadhaften Code ausführt.
 
 ### 6. Aktivitätendiagramm
-![](assets/Aktivitaeten_Diagramm_Beispiel.png)
 
-Abbildung 3: Aktivitätendiagramm für eine beispielhafte DoS Attacke. Die Gegenmaßnahmen sind stark abhängig von der verwendeten Cloud-Technologie, daher sind die Maßnahmen bzw. Aktivitäten abstrakt gehalten.
+#### 6.1 DoS Attacke im Detail
+![](assets/Aktivitaeten_Diagramm_Beispiel.png)Abbildung 3: Aktivitätendiagramm für eine beispielhafte DoS Attacke. Die Gegenmaßnahmen sind stark abhängig von der verwendeten Cloud-Technologie, daher sind die Maßnahmen bzw. Aktivitäten abstrakt gehalten.
 
+#### 6.2 Schadensanalyse
+![](assets/SchadensanalyseDos.png)Abbildung 4: Aktivitätendiagramm für eine Schadensanalyse nach einem DoS Angriff.
 
 ### 7. User Stories
 
