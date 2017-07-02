@@ -7,7 +7,7 @@ Das Cloud Computing Modell stellt einen Netzwerk Zugriff auf einen geteilten Poo
 
 Es werden dabei fünf essentielle Eigenschaften definiert:
 
-* On-demand self service: Ein Anwender muss automatisch Rechenkapzitäten oder andere Leistungen von der Cloud beziehen bzw. nutzen können, ohne menschliche Interaktion mit dem Anbieter.
+* On-demand self service: Ein Anwender muss automatisch Rechenkapazitäten oder andere Leistungen von der Cloud beziehen bzw. nutzen können, ohne menschliche Interaktion mit dem Anbieter.
 * Broad network access: Der Zugriff auf die Leistungen muss über herkömmliche Netzwerkstandards erfolgen (z.B. über Smartphones, Laptops, Tablets, usw.)
 * Resource pooling: Über Methoden der Virtualisierung müssen auch mehrere Anwender gleichzeitig bedient werden. Die Ressourcenzuordnung muss dynamisch geschehen.
 * Rapid elasticity: Die Anforderungen an die Skalierbarkeit sind enorm. Kapazitäten müssen schnell und dynamisch an die Benutzeranforderungen angepasst werden.
@@ -22,6 +22,6 @@ Es gibt drei unterschiedliche Service Modelle:
 Die Arten von Clouds in ihrem Einsatzgebiet lassen sich in vier Kategorien einteilen:
 
 * Private Cloud: Die Infrastruktur ist für die bestimmte Nutzung einer einzigen Organisation gedacht. Sie kann im Besitz der Firma oder einer dritten Partei sein, die auch die Verwaltung übernimmt.
-* Community Cloud: Die Infrastruktur wird für eine bestimmte Nutzung 
+* Community Cloud: Die Infrastruktur wird für eine bestimmte Nutzung einer Gemeinschaft von Anwendern angeboten. Sie wird von einer oder mehreren Organisatoren der Gemeinschaft verwaltet.
 * Public Cloud: Die Infrastruktur ist offen für die Öffentlichkeit. Sie gehört einem Unternehmen, einer Regierungsorganisation, einer akademischen Organisation oder einer Mischung aus diesen.
 * Hybrid Cloud: Die Infrastruktur ist eine Mischung aus zwei oder mehreren andren Infrastrukturen (Private, Community, Public). Sie werden zusammengeführt durch entsprechende IT-Lösungen.
