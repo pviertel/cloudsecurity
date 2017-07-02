@@ -9,3 +9,6 @@ Autoren: Philipp Viertel, André Kaleja
 6. http://docs.cloudstack.apache.org/en/latest/ (Abgerufen am 30.06.2017).
 7. http://docs.opennebula.org/5.2/index.html (Abgerufen am 30.06.2017).
 8. http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf (Abgerufen am 02.07.2017)
+9. Handbook on Securing Cyber-Physical Critical Infrastructure, Foundations and Challenges    Sajal Das, Krishna Kant, Nan Zhang   ISBN: 978-0-12-415815-3
+10. Security, Privacy and Trust in Cloud Systems  Surya Nepal, Mukaddim Pathan ISBN 978-3-642-38586-51010
+11. Bio-inspiring Cyber Security and Cloud Services: Trends and Innovations  Abould Ella Hassanien, Tai-Hoon Kim, Janusz Kacprzyk, Ali Ismail Awad  ISBN 978-3-662-43616-5
