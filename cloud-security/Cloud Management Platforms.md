@@ -102,7 +102,9 @@ In der Abbildung 2 ist ein solches Beispiel dargestellt. Der API Endpoint (aus d
 
 Das nachfolgende Diagramm stellt die möglichen Angriffe exemplarisch dar. Wieder sollte die Frage anstehen, welches Szenario für die Cloud am wahrscheinlichsten ist? Handelt es sich um eine private oder public Cloud, wie sensibel sind die Daten, die Ressourcen, etc.? Anhand dieser Analyse kann ermittelt werden, welches Angriffsszenario am wahrscheinlichsten ist, und welche Maßnahmen man anschließend ergreifen muss, um sich dagegen zu wehren.
 
-![](assets/high-capability.png) Abbildung 2: Verschiedene Angriffsszenarien. Quelle: https://docs.openstack.org/security-guide/introduction/security-boundaries-and-threats.html
+![](assets/high-capability.png)
+
+Abbildung 2: Verschiedene Angriffsszenarien. Quelle: https://docs.openstack.org/security-guide/introduction/security-boundaries-and-threats.html
 
 ## CloudStack
 
