@@ -1,4 +1,5 @@
 # Cloud Security
+Autor: André Kaleja
 
 Der größte Vorteil durch Clouds ist das hohe Performanz/Kosten Verhältnis. Grade kleine bis mittelständische IT Betriebe, können von den großen Recheneinheiten profitieren, ohne dabei selber in den Bau und den Kauf dieser Datenzentren investieren zu müssen. Der Wunsch nach einer kritischen cyber-physischen Infrastruktur löst einige Sicherheitsbedenken aus, da riesige Mengen an sensiblen Daten übertragen und in großen Datencentern verarbeitet werden müssten. Außerdem kann es vorkommen, dass diese sensiblen Daten an Vermittler ohne volle Zugriffsrechte, weitergegeben werden müssen. [9 Part V S.357]
 
