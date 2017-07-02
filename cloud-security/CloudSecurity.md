@@ -82,7 +82,7 @@ Tabelle 1: Top Bedrohungen des Cloud Computing beschrieben von der CSA [10 Table
  
 Tabelle 2: Zusammenfassung der Hauptcharakteristiken von Cloud Entwicklungsmodellen, Zuständigkeit (Organisation O, Third-Party (TP) or both (B)), Management (O, TP or B), Standort (Off-site, On-site or B), Kosten (Low, Medium, High) und Sicherheit (Low, Medium, High), VPC steht für Virtual Private Cloud [10 Table 2 Kap 4.1 S. 16]
 
-##Einleitung in die Überwachung
+## Einleitung in die Überwachung
 
 Das Netzwerkmanagement entwickelt sich stetig weiter und ist inzwischen riesig und komplex. Es gibt hunderte an Software und Hardware Produkten, die Administratoren helfen, Netzwerke zu überwachen und zu steuern. Zusätzlich gibt es auch hunderte an Tools, die die volle Kontrolle über Netzwerke garantieren. Die Netzwerküberwachung ist sehr strategisch. Sicherheit, Performanz, Verlässlichkeit und viele Klassen an Diensten müssen 24/7 überwacht werden. Es spielt längst nicht mehr nur noch die Überwachung eine Rolle. Zusätzlich optimiert man den Datenfluss und den Datenzugriff in einer sich ständig ändernden Umgebung. Dienste und Tools sind zahlreich vorhanden und variieren je nach Umgebung in der sie analysieren. Fehlermeldungen und ungewöhnliche Ereignisse können dem Admin durch E-Mail, SMS, Warnungen oder Alarmen mitgeteilt werden. Die Netzwerküberwachung macht nur Sinn, wenn man auch die richtigen Dinge überwacht. Dazu zählen z.B. die SLA/SLO Metriken und Sicherheitsbedingungen. Normalerweise werden Bandbreite, Verbrauch, Applikationsperformanz, Serverperformanz und Datenverkehr untersucht. [11 Kap 22.1 S. 565]
 
