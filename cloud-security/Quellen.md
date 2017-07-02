@@ -20,3 +20,4 @@ Autoren: Philipp Viertel, André Kaleja
 17. Gartner (2008) Assessing the security risks of cloud computing. http://cloud.ctrls.in/files/assessing-the-security-risks.pdf. White Paper
 18. ENISA (2009) Cloud computing: benefits, risks and recommendations for infomarion security. http://www.enisa.europa.eu/activities/risk-management/files/deliverables/cloud-computing-risk-assessment . White Paper
 19. CSA (2010) Top threats to cloud computing. https://cloudsecurityalliance.org/research/topthreats/ . White paper
+20. Subashini S, Kavitha V (2011) A survey on security issues in service deliverymodels of cloud computing. J Netw Comput Appl 34(2011):1–11
