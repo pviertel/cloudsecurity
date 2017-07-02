@@ -25,7 +25,7 @@ In der Industrie aber auch in der Literatur genießt das Thema Cloud Sicherheit 
 
 In der Untersuchung (13) standen erneut die Aspekte Vertraulichkeit, Datenschutz, Integrität und Erreichbarkeit unter Betrachtung. Als Lösungsansatz dieser Untersuchung wurde eine vertrauenswürdige third-party Lösung vorgeschlagen, um Sicherheitsbedrohungen auf Vertraulichkeit, Integrität, Authentizität und Erreichbarkeit auszumerzen. Der Ansatz kombiniert Public Key Infrastructure (PKI), das Lightweight Directory Access Protocol (LDAP) und Single Sign-On (SSO). Die Prämisse der Untersuchung war es darzulegen, dass die Vorteile der Cloud den Defiziten überlegen sind. [10 Kap 2 S. 7]
 
-Eine andere Studie zielte auf die Sicherheitsprobleme der Cloud Modelle ab. [Subashini S, Kavitha V (2011) A survey on security issues in service deliverymodels of cloud computing. J Netw Comput Appl 34(2011):1–11]. Jedes Modell wurde einzeln betrachtet, um dabei die signifikantesten Schwachstellen, Bedrohungen und Risiken zu finden. Es ist auffällig, dass das Software as a Service (SaaS) Modell die Mehrheit an Problemen hervorbrachte. [10 Kap 2 S. 7]
+Eine andere Studie zielte auf die Sicherheitsprobleme der Cloud Modelle ab. (20). Jedes Modell wurde einzeln betrachtet, um dabei die signifikantesten Schwachstellen, Bedrohungen und Risiken zu finden. Es ist auffällig, dass das Software as a Service (SaaS) Modell die Mehrheit an Problemen hervorbrachte. [10 Kap 2 S. 7]
 
 Die Sicherheit und Datenschutz Themen wurden erneut in (14) diskutiert. Vertraulichkeit, Integrität, Verantwortung und Datenschutz wurden als die signifikantesten Attribute identifiziert. Zu jeder Eigenschaft wurden Sicherheitsprobleme, mit zugehörigen Verteidigungslösungen, beschrieben. [10 Kap 2 S. 7]
 
