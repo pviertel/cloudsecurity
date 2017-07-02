@@ -1,5 +1,7 @@
 # Einsatzgebiete
 
+Autor: Andre Kaleja
+
 Im Folgenden werden einige reale Anwendungsbeispiele genannt.
 
 Das Modell SaaS stellt wie der Name schon sagt, Software als Service bereit und kann über den Browser angesteuert werden. Unternehmen müssen selber keine Server und Software Lizenzen mehr beschaffen. Gebühren für die Nutzung fallen nun monatlich oder pro Nutzer an. Microsoft z.B. vertreibt unter dem Namen Microsoft Online Services, Services wie Exchange Online, Share Point Online, Communications Online und LiveMeeting. Noch ein Beispiel wäre die Firma Google mit Google Apps. 
