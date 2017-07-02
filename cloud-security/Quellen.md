@@ -12,3 +12,11 @@ Autoren: Philipp Viertel, André Kaleja
 9. Handbook on Securing Cyber-Physical Critical Infrastructure, Foundations and Challenges    Sajal Das, Krishna Kant, Nan Zhang   ISBN: 978-0-12-415815-3
 10. Security, Privacy and Trust in Cloud Systems  Surya Nepal, Mukaddim Pathan ISBN 978-3-642-38586-51010
 11. Bio-inspiring Cyber Security and Cloud Services: Trends and Innovations  Abould Ella Hassanien, Tai-Hoon Kim, Janusz Kacprzyk, Ali Ismail Awad  ISBN 978-3-662-43616-5
+12. Zhou M, Zhang R, XieW, QianW, Zhou A (2010) Security and privacy in cloud computing: a survey. In: 6th international conference on semantics knowledge and grid (Ningbo, China,2010), pp 105–112
+13. ZissisD, LekkasD(2012) Addressing cloud computing security issues. FutureGener ComputSys 28(2012):583–592
+14. Xiao Z, XiaoY(2012) Security and privacy in cloud computing. IEEECommunSurvTutorials 2012:1–17
+15. Rong C, Nguyen ST, Jaatun MG (2012) A survey on security challenges in cloud computing Comput Elect Engi Beyond Lightning
+16. KhorshedMT,Ali ABMS,Wasimi SA(2012)Asurvey on gaps, threat remediation challenges and some thoughts for proactive attack detection in cloud computing. Future Gen Comput Sys 28(2012):833–851
+17. Gartner (2008) Assessing the security risks of cloud computing. http://cloud.ctrls.in/files/assessing-the-security-risks.pdf. White Paper
+18. ENISA (2009) Cloud computing: benefits, risks and recommendations for infomarion security. http://www.enisa.europa.eu/activities/risk-management/files/deliverables/cloud-computing-risk-assessment . White Paper
+19. CSA (2010) Top threats to cloud computing. https://cloudsecurityalliance.org/research/topthreats/ . White paper
